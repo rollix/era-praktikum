@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Tue Jun 12 11:22:34 2018
+[*]
+[dumpfile] "/home/user/ERA/VHDL/ALU/ALU.vcd"
+[dumpfile_mtime] "Tue Jun 12 11:22:19 2018"
+[dumpfile_size] 3682
+[savefile] "/home/user/ERA/VHDL/ALU/ALU_config.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 133 34
+*-26.833010 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 225
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 160
+@28
+op[2:0]
+carry_in
+carry_out
+ce
+clk
+@22
+f_out[15:0]
+@28
+op[2:0]
+@22
+r_in[15:0]
+s_in[15:0]
+@28
+sign
+zero
+[pattern_trace] 1
+[pattern_trace] 0
