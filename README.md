@@ -1,2 +1,7 @@
 # era-praktikum
-TUM ERA-Praktikum SS 2018
+Praktikum - Rechnerarchitektur, SS 2018
+
+Gruppe 33:
+* Ruben Bachmann
+* Franziska Steinle
+* Roland Würsching
